@@ -6,6 +6,9 @@
 // var প্রকাশ করার জন্য ৫ টা জিনিস লিখতে হয় ।
 // vary মানে বিভিন্ন ।
 
+
+// variable 3 ধরনের
+
 // Numeric variable
 var age = 35;
 var applePrice = 25;
@@ -22,4 +25,13 @@ var scholl ""
 var pass = true;
 var fail = false;
 
-//true false string এর মত হলে এগুলো স্পেশাল কিওয়ার্ড । এগুলো javascript থেকে নির্ধারন করা ।
+//true false string এর মত হলে এগুলো স্পেশাল কিওয়ার্ড । এগুলো javascript থেকে নির্ধারন করা । javascript keywords / reserve word.
+
+
+// varibale naming ---
+// Never use javascript reserved word
+// have to use one word for naming. example.. name, firstName
+// Quation is not allow
+// Never start name with number 
+// Use camel word for naming
+// Underscrore allow for naming 
