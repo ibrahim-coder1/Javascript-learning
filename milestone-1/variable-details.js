@@ -18,7 +18,7 @@ var tempaterute = 37;
 // String variable. string মানে সুতা বা রশি 
 var name = "abul kashem";
 var address = "mirpur";
-var scholl ""
+
 
 
 //boolean variable. এটা দ্বারা সত্য মিথ্যা প্রকাশ করা হয় ।
